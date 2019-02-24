@@ -1,2 +1,2 @@
 # movie_app
-show movie list used reactjs
+make show movie list to study Reactjs
